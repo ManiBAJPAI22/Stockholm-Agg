@@ -50,6 +50,10 @@ A real-world asset price aggregator protocol that leverages liquidity from vario
 Stockholm leverages CosmWasm and the MANTRA Chain to build a secure, scalable, and interoperable protocol.
 
 ### Why CosmWasm and MANTRA?
+
+![mantra_chain](https://github.com/ManiBAJPAI22/Stockholm-Agg/assets/103181735/242ce867-3d72-40fe-b39a-b5518e3f125b)
+
+
 1. **Interoperability**: 
    - Facilitates cross-chain communication, allowing Stockholm to interact with multiple blockchains.
    - Enhances liquidity and market reach by tapping into various ecosystems.
@@ -69,6 +73,9 @@ Stockholm leverages CosmWasm and the MANTRA Chain to build a secure, scalable, a
 ## 5. Technical Architecture
 
 Stockholm's architecture is designed to efficiently aggregate prices and execute trades across multiple DEXs.
+
+![WhatsApp Image 2024-06-18 at 20 04 02_ba562a0f](https://github.com/ManiBAJPAI22/Stockholm-Agg/assets/103181735/5d4a63ef-d9a7-4a22-a7e2-59518eb22741)
+
 
 ### Components:
 1. **Price Aggregation Engine**: 
