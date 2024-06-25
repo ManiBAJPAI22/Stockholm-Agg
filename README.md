@@ -1,6 +1,5 @@
-Deployed Contract address : mantra1jpnrk92gm23p3nj6f7dj6m3mt52fgmmda0n2sx0yxal64cgma77q80l8q9
-
 # Stockholm: Real-World Asset Price Aggregator Protocol
+Deployed Contract address : mantra1jpnrk92gm23p3nj6f7dj6m3mt52fgmmda0n2sx0yxal64cgma77q80l8q9
 
 ## 1. Introduction
 
@@ -145,6 +144,6 @@ The Stockholm project is led by two key individuals:
 1. **Mani Bajpai**
 2. **Prathmesh Ranjan**
 
-While the presentation doesn't provide detailed information about their backgrounds or roles, these individuals are presented as the driving force behind the Stockholm protocol.
+
 
 
