@@ -147,12 +147,7 @@ Stockholm caters to various stakeholders in the DeFi and RWA ecosystems:
 - **Market Access**: Easier access to a broader range of tokenized assets, including those that might be difficult to trade on traditional platforms.
 - **Competitive Pricing**: Benefit from competitive pricing and lower transaction fees due to Stockholm's optimization algorithms.
 
-## 9. Team
 
-The Stockholm project is led by two key individuals:
-
-1. **Mani Bajpai**
-2. **Prathmesh Ranjan**
 
 
 
