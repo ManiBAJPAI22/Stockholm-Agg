@@ -2,7 +2,8 @@
 Deployed Contract address : mantra1jpnrk92gm23p3nj6f7dj6m3mt52fgmmda0n2sx0yxal64cgma77q80l8q9
 
 ## 1. Introduction
-![WhatsApp Image 2024-06-18 at 20 04 03_4d86b44e](https://github.com/ManiBAJPAI22/Stockholm-Agg/assets/103181735/dcea5930-cb95-4b14-9903-131c15250df6)
+
+![Stockholm Poster](https://github.com/ManiBAJPAI22/Stockholm-Agg/assets/103181735/4975afb7-6cfa-4725-b17b-6a40af9f4b91)
 
 
 Stockholm is an innovative protocol designed to address key challenges in the decentralized finance (DeFi) space, particularly focusing on Real-World Assets (RWAs).
