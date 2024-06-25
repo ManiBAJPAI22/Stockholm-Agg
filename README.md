@@ -1,1 +1,3 @@
 # Stockholm-Agg
+
+Deployed Contract : mantra1jpnrk92gm23p3nj6f7dj6m3mt52fgmmda0n2sx0yxal64cgma77q80l8q9
